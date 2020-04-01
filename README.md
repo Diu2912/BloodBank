@@ -1,0 +1,1 @@
+This is Blood Bank Management Project based on PHP.
